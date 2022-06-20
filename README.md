@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Olcay</h1>
+Hello there, I'm Olcay</h1>
 
 <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" widht="100" height="250">
 
