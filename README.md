@@ -2,8 +2,6 @@ Hello there, I'm Olcay</h1>
 
 <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" widht="100" height="250">
 
-- 🔭 I’m currently working on [Test Automation Bootcamp](https://www.patika.dev/bootcamp/enuygun-test-automation-bootcamp)
-
 - 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **olcay_alici@hotmail.com**
